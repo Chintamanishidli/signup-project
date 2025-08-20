@@ -1,12 +1,31 @@
-# React + Vite
+# Signup Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack signup application built with **React (Vite)** for the frontend and **Node.js + Express + MySQL** for the backend.  
+This project demonstrates user authentication, form validation, and database integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Tech Stack
+- **Frontend:** React (Vite), JSX, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL
+- **Version Control:** Git & GitHub
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+signup-project/
+├── client/ # React frontend
+├── server/ # Node.js + Express backend
+└── README.md # Documentation
+
+---
+##  Features
+
+✅ User registration with form validation
+
+✅ Data stored securely in MySQL
+
+✅ Error handling for missing fields & duplicates
+
+✅ Clean separation of frontend and backend
