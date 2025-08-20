@@ -14,10 +14,12 @@ This project demonstrates user authentication, form validation, and database int
 ---
 
 ## 📂 Project Structure
+```
 signup-project/
-├── client/ # React frontend
-├── server/ # Node.js + Express backend
+├── client/   # React frontend
+├── server/   # Node.js + Express backend
 └── README.md # Documentation
+```
 
 ---
 ##  Features
